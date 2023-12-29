@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.practiceazure.com # submit your host
+REDIS_HOST: redis.practiceazure.com
+MYSQL_HOST: mysql.practiceazure.com
+RABBITMQ_HOST: rabbitmq.practiceazure.com
+CATALOGUE_HOST: catalogue.practiceazure.com
+USER_HOST: user.practiceazure.com
+CART_HOST: cart.practiceazure.com
+SHIPPING_HOST: shipping.practiceazure.com
+PAYMENT_HOST: payment.practiceazure.com
+DISPATCH_HOST: dispatch.practiceazure.com
